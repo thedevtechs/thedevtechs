@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, world! 👋
 
 - 🌱 I’m currently learning ...
 how to improve business skills to expand operations
