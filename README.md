@@ -1,7 +1,9 @@
-### Hello, world! 👋
+### Hello, world! 👋 Welcome to my little coding world
+
+## Thanks for being apart of the growth! Let's learn something together.
 
 - 🌱 I’m currently learning how to expand business operations
-- 👯 I’m looking to collaborate on Next.js projects and consulting clients on their projects
+- 👯 I’m looking for opportunities to collaborate on React/Next.js projects and consulting clients on their projects
 - ⚡ Fun fact: I've traveled to 24 countries and I'm always working towards going to more
 
 [![thedevtechs's github stats](https://github-readme-stats.vercel.app/api?username=thedevtechs&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://thedevtechs.com/)
