@@ -1,6 +1,6 @@
-# Hello, world! 👋 Welcome to my little coding world
+# Los Angeles Based Full-stack Developer & Digital Project Manager
 
-### Thanks for being apart of the growth! Let's learn something together.
+### We create digital solutions for all business sizes
 
 - 🌱 I’m currently learning how to expand business operations
 - 👯 I’m looking for opportunities to collaborate on React/Next.js projects and consulting clients on their projects
