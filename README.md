@@ -1,24 +1,5 @@
-# Los Angeles Based Full-stack Developer & Digital Project Manager
+I am a seasoned professional with a very successful track record in the tech industry. I eat, breathe, and sleep tech and have a passion for transforming visionary ideas into reality. Over the past 9 years, I've honed my skills and expertise while working for dozens of startups and established companies, including UHG, a Fortune 5 company. I've gained invaluable experience in the industry that has provided me the ability to launch products quicker and under budget.
 
-### We create digital solutions for all business sizes
+My experience in high-stakes corporate environments has equipped me with the ability to handle complex challenges, collaborate seamlessly with cross-functional teams, and deliver solutions that exceed expectations. I truly am a one man army and Swiss army knife in the programming world.
 
-- 🌱 I’m currently learning how to expand business operations
-- 👯 I’m looking for opportunities to collaborate on React/Next.js projects and consulting clients on their projects
-- ⚡ Fun fact: I've traveled to 24 countries and I'm always working towards going to more
-
-[![thedevtechs's github stats](https://github-readme-stats.vercel.app/api?username=thedevtechs&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://thedevtechs.com/)
-<!--
-**thedevtechs/thedevtechs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-how to improve business skills to expand operations
-- 👯 I’m looking to collaborate on ...
-Next.js projects and consulting clients on their projects
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-I've traveled to 24 countries and I'm always working towards going to more
--->
+I look forward to working with you on your project.
