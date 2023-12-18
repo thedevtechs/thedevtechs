@@ -6,7 +6,7 @@ Full-stack development with a focus on React & Flutter frameworks.
 Mobile app development for iOS and Android using cutting-edge frameworks like React Native.
 Proficient in high-stakes corporate environments, ensuring swift product launches within budget constraints.
 
-🚀 Key Highlights:
+⚙️ Key Highlights:
 - Successfully contributed to numerous projects, demonstrating an ability to navigate complex challenges.
 - Adept at seamless collaboration with cross-functional teams to deliver solutions that surpass expectations.
 - Extensive experience in launching products quickly, thanks to a solid foundation gained from working with diverse startups and Fortune 500 companies.
