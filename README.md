@@ -1,5 +1,18 @@
-I am a seasoned professional with a very successful track record in the tech industry. I eat, breathe, and sleep tech and have a passion for transforming visionary ideas into reality. Over the past 9 years, I've honed my skills and expertise while working for dozens of startups and established companies, including UHG, a Fortune 5 company. I've gained invaluable experience in the industry that has provided me the ability to launch products quicker and under budget.
+🚀 Passionate Tech Enthusiast | Visionary Developer | Results-Driven Professional
+Greetings! I'm a seasoned tech professional with a proven track record spanning over 9 years in the industry. I thrive on turning visionary ideas into tangible realities, and my journey has led me through diverse roles in startups and established giants like UHG, a Fortune 5 company.
 
-My experience in high-stakes corporate environments has equipped me with the ability to handle complex challenges, collaborate seamlessly with cross-functional teams, and deliver solutions that exceed expectations. I truly am a one man army and Swiss army knife in the programming world.
+🔧 Technical Expertise:
+Full-stack development with a focus on React & Flutter frameworks.
+Mobile app development for iOS and Android using cutting-edge frameworks like React Native.
+Proficient in high-stakes corporate environments, ensuring swift product launches within budget constraints.
 
-I look forward to working with you on your project.
+🚀 Key Highlights:
+- Successfully contributed to numerous projects, demonstrating an ability to navigate complex challenges.
+- Adept at seamless collaboration with cross-functional teams to deliver solutions that surpass expectations.
+- Extensive experience in launching products quickly, thanks to a solid foundation gained from working with diverse startups and Fortune 500 companies.
+
+🛠️ One-Man Army & Swiss Army Knife:
+I pride myself on being a versatile force in the programming world. From intricate problem-solving to leading full-stack development, I bring a wealth of experience to the table. My commitment is to streamline processes and drive projects to successful completion.
+
+🌐 Open to Collaborate:
+I'm enthusiastic about new opportunities and look forward to contributing my skills to your project. Let's connect and bring your vision to life!
